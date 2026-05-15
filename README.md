@@ -172,3 +172,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For questions or support, please open an issue on the GitHub repository.
+# VocabularyValut
+VocabVault is an Android vocabulary learning application built with Kotlin . It helps users expand their vocabulary by searching for word definitions and maintaining a personal collection.
