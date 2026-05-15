@@ -1,0 +1,4 @@
+<resources>
+    <!-- Base theme — Compose handles all visual styling via MaterialTheme -->
+    <style name="Theme.VocabVault" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

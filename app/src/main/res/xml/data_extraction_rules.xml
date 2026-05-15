@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Exclude the Room database from cloud backup — data is local-only by design -->
+        <exclude domain="database" path="vocabvault.db" />
+    </cloud-backup>
+</data-extraction-rules>
